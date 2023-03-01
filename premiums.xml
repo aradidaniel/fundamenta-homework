@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SalesManagers>
+    <SalesManager name="Ü1" premium="375000.0"/>
+    <SalesManager name="Ü2" premium="381000.0"/>
+    <SalesManager name="Ü3" premium="378000.0"/>
+</SalesManagers>
